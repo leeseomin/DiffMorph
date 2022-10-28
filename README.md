@@ -8,17 +8,17 @@ Differentiable Morphing is machine learning algorithm that can morph any two ima
 ![example 2](images/example_2.gif)
 ![example 3](images/example_3.gif)
 
-## Dependencies
+## Dependencies  설치 
 
 Tensorflow 2.1.3 and above.
 
 
-m1맥에 텐서플로우 설치
+m1맥에 텐서플로우 설치 
 
 https://gist.github.com/leeseomin/9be92090cb4267966af7d05cb6c9e0c7 
-
-
-
+```
+pip install -r r.txt
+```
 
 ## Example notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/volotat/DiffMorph/blob/master/DiffMorph.ipynb)   
@@ -26,11 +26,6 @@ Provided by [@chigozienri]( https://github.com/chigozienri ). Can also generated
 
 ## Usage
 
-Install proper dependencies:
-
-```
-pip install -r requirements.txt
-```
 
 Use the program:
 
