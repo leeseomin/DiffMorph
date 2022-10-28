@@ -12,6 +12,14 @@ Differentiable Morphing is machine learning algorithm that can morph any two ima
 
 Tensorflow 2.1.3 and above.
 
+
+m1맥에 텐서플로우 설치
+
+https://gist.github.com/leeseomin/9be92090cb4267966af7d05cb6c9e0c7 
+
+
+
+
 ## Example notebook
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/volotat/DiffMorph/blob/master/DiffMorph.ipynb)   
 Provided by [@chigozienri]( https://github.com/chigozienri ). Can also generated joint video from multiple consecutive images.
